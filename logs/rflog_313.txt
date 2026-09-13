@@ -1,0 +1,2 @@
+[ 309.6s] s313 it=126 BEST sum=2.63598311 viol=1.2e-07
+FINAL s313 sum=2.63598311 iters=251

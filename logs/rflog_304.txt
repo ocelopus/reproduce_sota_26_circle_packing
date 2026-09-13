@@ -1,0 +1,2 @@
+[ 139.9s] s304 it=60 BEST sum=2.63598314 viol=2.7e-07
+FINAL s304 sum=2.63598314 iters=262

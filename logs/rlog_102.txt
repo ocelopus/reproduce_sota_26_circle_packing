@@ -1,0 +1,5 @@
+[  37.9s] s102 it=18 BEST sum=2.63429240 viol=4.1e-09
+[ 103.5s] s102 it=54 BEST sum=2.63429240 viol=5.4e-09
+[ 241.4s] s102 it=128 BEST sum=2.63429240 viol=5.7e-09
+[ 277.8s] s102 it=144 BEST sum=2.63429240 viol=8.2e-09
+FINAL s102 sum=2.63429240 iters=206

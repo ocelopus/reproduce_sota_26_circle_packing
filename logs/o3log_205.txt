@@ -1,0 +1,13 @@
+[   2.7s] s205 it=1 BEST sum=2.57946408
+[   9.6s] s205 it=3 BEST sum=2.61490066
+[  14.3s] s205 it=4 BEST sum=2.61699646
+[  17.4s] s205 it=5 BEST sum=2.63017875
+[  25.0s] s205 it=8 BEST sum=2.63017875
+[  31.6s] s205 it=9 BEST sum=2.63017875
+[ 194.7s] s205 it=52 BEST sum=2.63234164
+[ 208.2s] s205 it=56 BEST sum=2.63234164
+[ 210.2s] s205 it=57 BEST sum=2.63234164
+[ 281.4s] s205 it=81 BEST sum=2.63234164
+[ 310.2s] s205 it=89 BEST sum=2.63234164
+[ 422.5s] s205 it=112 BEST sum=2.63234165
+FINAL s205 sum=2.63234165 iters=166

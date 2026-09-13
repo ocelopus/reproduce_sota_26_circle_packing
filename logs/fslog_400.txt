@@ -1,0 +1,2 @@
+[ 373.3s] s400 it=127 BEST sum=2.63598312
+FINAL s400 sum=2.63598312 iters=189

@@ -1,0 +1,1 @@
+FINAL s309 sum=2.63598310 iters=264

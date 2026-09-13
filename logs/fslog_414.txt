@@ -1,0 +1,2 @@
+[ 349.9s] s414 it=107 BEST sum=2.63598314
+FINAL s414 sum=2.63598314 iters=190

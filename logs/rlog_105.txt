@@ -1,0 +1,2 @@
+[  15.7s] s105 it=8 BEST sum=2.63429243 viol=1.4e-07
+FINAL s105 sum=2.63429243 iters=193

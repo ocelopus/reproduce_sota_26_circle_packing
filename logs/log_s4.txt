@@ -1,0 +1,7 @@
+[   2.3s] s4 it=1 NEW BEST sum=2.5967089 viol=7.99e-13
+[  11.9s] s4 it=3 NEW BEST sum=2.5967089 viol=3.83e-11
+[  14.9s] s4 it=4 NEW BEST sum=2.6171933 viol=1.14e-10
+[  21.4s] s4 it=8 NEW BEST sum=2.6240278 viol=1.54e-12
+[  24.1s] s4 it=10 NEW BEST sum=2.6240278 viol=1.90e-11
+[  64.8s] s4 it=29 NEW BEST sum=2.6240278 viol=2.56e-09
+FINAL s4 sum=2.6240278 iters=95

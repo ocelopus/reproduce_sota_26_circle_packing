@@ -1,0 +1,2 @@
+[ 530.6s] s406 it=152 BEST sum=2.63598311
+FINAL s406 sum=2.63598311 iters=173

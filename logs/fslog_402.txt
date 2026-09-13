@@ -1,0 +1,2 @@
+[ 383.6s] s402 it=125 BEST sum=2.63598313
+FINAL s402 sum=2.63598313 iters=195

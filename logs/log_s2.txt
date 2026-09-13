@@ -1,0 +1,14 @@
+[   1.7s] s2 it=1 NEW BEST sum=2.6063601 viol=5.66e-14
+[   9.2s] s2 it=5 NEW BEST sum=2.6063601 viol=7.08e-13
+[  25.9s] s2 it=13 NEW BEST sum=2.6063601 viol=3.84e-12
+[  27.8s] s2 it=14 NEW BEST sum=2.6063601 viol=2.05e-11
+[  29.3s] s2 it=15 NEW BEST sum=2.6063601 viol=2.65e-11
+[  39.9s] s2 it=19 NEW BEST sum=2.6130885 viol=6.11e-16
+[  43.2s] s2 it=20 NEW BEST sum=2.6130885 viol=3.17e-13
+[  45.6s] s2 it=21 NEW BEST sum=2.6196437 viol=2.13e-13
+[  48.0s] s2 it=23 NEW BEST sum=2.6196437 viol=1.36e-10
+[  75.3s] s2 it=37 NEW BEST sum=2.6196437 viol=3.90e-09
+[ 184.8s] s2 it=83 NEW BEST sum=2.6279045 viol=2.36e-11
+[ 198.4s] s2 it=90 NEW BEST sum=2.6279138 viol=2.26e-15
+[ 199.8s] s2 it=91 NEW BEST sum=2.6307297 viol=0.00e+00
+FINAL s2 sum=2.6307297 iters=92

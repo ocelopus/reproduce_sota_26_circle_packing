@@ -1,0 +1,2 @@
+[ 486.6s] s303 it=207 BEST sum=2.63598318 viol=4.8e-07
+FINAL s303 sum=2.63598318 iters=261

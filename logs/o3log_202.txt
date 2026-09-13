@@ -1,0 +1,9 @@
+[   2.2s] s202 it=1 BEST sum=2.56251072
+[   7.1s] s202 it=2 BEST sum=2.60917956
+[  36.1s] s202 it=9 BEST sum=2.62787632
+[  56.9s] s202 it=17 BEST sum=2.62787632
+[  66.1s] s202 it=20 BEST sum=2.62787632
+[  67.7s] s202 it=21 BEST sum=2.62787632
+[ 249.9s] s202 it=73 BEST sum=2.62787632
+[ 302.5s] s202 it=89 BEST sum=2.62787633
+FINAL s202 sum=2.62787633 iters=178

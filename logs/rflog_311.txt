@@ -1,0 +1,1 @@
+FINAL s311 sum=2.63598310 iters=258

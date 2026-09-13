@@ -1,0 +1,2 @@
+[  58.5s] s314 it=29 BEST sum=2.63598310 viol=7.3e-08
+FINAL s314 sum=2.63598310 iters=263

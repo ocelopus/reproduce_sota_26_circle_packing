@@ -1,0 +1,2 @@
+[ 402.1s] s301 it=177 BEST sum=2.63598311 viol=1.1e-07
+FINAL s301 sum=2.63598311 iters=257

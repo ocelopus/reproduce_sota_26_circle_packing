@@ -85,25 +85,6 @@ def run_packing():
     return construct_packing()
 
 
-def visualize(centers, radii):
-    """Visualize the circle packing (requires matplotlib)."""
-    import matplotlib.pyplot as plt
-    from matplotlib.patches import Circle
-
-    fig, ax = plt.subplots(figsize=(8, 8))
-    ax.set_xlim(0, 1)
-    ax.set_ylim(0, 1)
-    ax.set_aspect("equal")
-    ax.grid(True)
-    for i, (center, radius) in enumerate(zip(centers, radii)):
-        ax.add_patch(Circle(center, radius, alpha=0.5))
-        ax.text(center[0], center[1], str(i), ha="center", va="center")
-    plt.title(f"Circle Packing (n={len(centers)}, sum={sum(radii):.6f})")
-    plt.savefig("packing.png", dpi=120)
-    print("saved packing.png")
-
-
 if __name__ == "__main__":
-    centers, radii, sum_radii = run_packing()
-    print(f"Sum of radii: {sum_radii}")
-    print(f"Target ratio (vs 2.635): {sum_radii / 2.635:.6f}")
+    _, _, s = run_packing()
+    print(f"Sum of radii: {s}")
