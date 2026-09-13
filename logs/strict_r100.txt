@@ -1,0 +1,10 @@
+s100 start strict=2.635983066630
+[   8.7s] s100 it=35 strict=2.635983083367 viol=+0.0e+00
+/home/yly/anaconda3/lib/python3.12/site-packages/scipy/optimize/_slsqp_py.py:437: RuntimeWarning: Values in x were outside bounds during a minimize step, clipping to bounds
+  fx = wrapped_fun(x)
+/home/yly/anaconda3/lib/python3.12/site-packages/scipy/optimize/_slsqp_py.py:441: RuntimeWarning: Values in x were outside bounds during a minimize step, clipping to bounds
+  g = append(wrapped_grad(x), 0.0)
+[ 145.6s] s100 it=588 strict=2.635983083404 viol=+0.0e+00
+[ 152.0s] s100 it=614 strict=2.635983083685 viol=+0.0e+00
+[ 244.7s] s100 it=958 strict=2.635983083695 viol=+0.0e+00
+FINAL s100 strict=2.635983083695 iters=1183
