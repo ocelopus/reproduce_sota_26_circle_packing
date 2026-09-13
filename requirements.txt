@@ -1,0 +1,11 @@
+langchain-openai
+langchain-core
+python-dotenv
+langgraph
+pandas
+pydantic
+deepagents
+loguru
+matplotlib
+numpy
+scipy
